@@ -8,10 +8,6 @@
 
 ###
 
-<img align="left" height="130" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGowYmE4bHQ1NWpqeGRwcWxwZXJieW9jbmptaXBjaGptdjV1bGw0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MfTSbYo5JTNGH9ND18/giphy.gif"  />
-
-###
-
 <h6 align="left">About me</h6>
 
 ###
@@ -20,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM5cTI1bGljcmV1cWV3anFvMzBmcmk2a3hkYWpqbWNyM2UweG5xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.gif"  />
+<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGowYmE4bHQ1NWpqeGRwcWxwZXJieW9jbmptaXBjaGptdjV1bGw0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MfTSbYo5JTNGH9ND18/giphy.gif"  />
 
 ###
 
@@ -39,6 +35,10 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM5cTI1bGljcmV1cWV3anFvMzBmcmk2a3hkYWpqbWNyM2UweG5xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.gif"  />
 
 ###
 
