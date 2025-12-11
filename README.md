@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning - Interactive Extended Reality (CPE411), Web Design, and JavaScript frameworks<br><br>🎯 Goals: - Build engaging XR experiences and master full-stack web development<br><br>🎲 Fun fact: Sometimes I talk to my computer like it understands me (it probably does)</p>
+<img align="left" height="160" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGowYmE4bHQ1NWpqeGRwcWxwZXJieW9jbmptaXBjaGptdjV1bGw0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MfTSbYo5JTNGH9ND18/giphy.gif"  />
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGowYmE4bHQ1NWpqeGRwcWxwZXJieW9jbmptaXBjaGptdjV1bGw0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MfTSbYo5JTNGH9ND18/giphy.gif"  />
+<p align="left">📚 I'm currently learning - Interactive Extended Reality (CPE411), Web Design, and JavaScript frameworks<br><br>🎯 Goals: - Build engaging XR experiences and master full-stack web development<br><br>🎲 Fun fact: Sometimes I talk to my computer like it understands me (it probably does)</p>
 
 ###
 
